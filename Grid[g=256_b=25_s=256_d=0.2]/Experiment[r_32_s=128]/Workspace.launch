@@ -1,0 +1,9 @@
+<launch>
+  <param name="map/res" value="0.2" />
+  <param name="map/cmap" value="$(find p_controller)/../../../Workspaces/Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_32_s=128]/Workspace.xml" />
+
+  <node args="-w $(find p_controller)/../../../Workspaces/Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_32_s=128]/Workspace.xml -cooperative -threads 160" name="test_motion_planner" output="screen" pkg="p_controller" required="true" type="test_motion_planner">
+    
+  <remap from="~odom0" to="odom0" /><remap from="~odom1" to="odom1" /><remap from="~odom2" to="odom2" /><remap from="~odom3" to="odom3" /><remap from="~odom4" to="odom4" /><remap from="~odom5" to="odom5" /><remap from="~odom6" to="odom6" /><remap from="~odom7" to="odom7" /><remap from="~odom8" to="odom8" /><remap from="~odom9" to="odom9" /><remap from="~odom10" to="odom10" /><remap from="~odom11" to="odom11" /><remap from="~odom12" to="odom12" /><remap from="~odom13" to="odom13" /><remap from="~odom14" to="odom14" /><remap from="~odom15" to="odom15" /><remap from="~odom16" to="odom16" /><remap from="~odom17" to="odom17" /><remap from="~odom18" to="odom18" /><remap from="~odom19" to="odom19" /><remap from="~odom20" to="odom20" /><remap from="~odom21" to="odom21" /><remap from="~odom22" to="odom22" /><remap from="~odom23" to="odom23" /><remap from="~odom24" to="odom24" /><remap from="~odom25" to="odom25" /><remap from="~odom26" to="odom26" /><remap from="~odom27" to="odom27" /><remap from="~odom28" to="odom28" /><remap from="~odom29" to="odom29" /><remap from="~odom30" to="odom30" /><remap from="~odom31" to="odom31" /></node>
+
+</launch>

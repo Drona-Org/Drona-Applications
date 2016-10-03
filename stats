@@ -1,0 +1,504 @@
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 17.714 seconds
+Total A* solving(timeout excluded): 8.09747 seconds
+Total number of A* solver calls(timeout included): 37
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 5602
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 272.445 seconds
+Total A* solving(timeout excluded): 139.125 seconds
+Total number of A* solver calls(timeout included): 324
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 39226
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 2.31315 seconds
+Total A* solving(timeout excluded): 2.31315 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 2374
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 62.4785 seconds
+Total A* solving(timeout excluded): 39.4251 seconds
+Total number of A* solver calls(timeout included): 140
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 20947
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 165.403 seconds
+Total A* solving(timeout excluded): 105.694 seconds
+Total number of A* solver calls(timeout included): 287
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 43538
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.1]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 33.9022 seconds
+Total A* solving(timeout excluded): 20.4625 seconds
+Total number of A* solver calls(timeout included): 71
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 10863
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.15]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.583001 seconds
+Total A* solving(timeout excluded): 0.583001 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 685
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.15]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.290797 seconds
+Total A* solving(timeout excluded): 0.290797 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 337
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.15]/Experiment[r_32_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.64054 seconds
+Total A* solving(timeout excluded): 1.64054 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1490
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.15]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.33947 seconds
+Total A* solving(timeout excluded): 1.33947 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1500
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 20.3992 seconds
+Total A* solving(timeout excluded): 6.962 seconds
+Total number of A* solver calls(timeout included): 39
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 5582
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 306.21 seconds
+Total A* solving(timeout excluded): 118.438 seconds
+Total number of A* solver calls(timeout included): 348
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 41348
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 3.42685 seconds
+Total A* solving(timeout excluded): 1.50988 seconds
+Total number of A* solver calls(timeout included): 17
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 2333
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 67.0383 seconds
+Total A* solving(timeout excluded): 40.1453 seconds
+Total number of A* solver calls(timeout included): 142
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 21090
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 333.342 seconds
+Total A* solving(timeout excluded): 89.3735 seconds
+Total number of A* solver calls(timeout included): 383
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 39952
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.15]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 21.28 seconds
+Total A* solving(timeout excluded): 17.4329 seconds
+Total number of A* solver calls(timeout included): 66
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 11530
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.2]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.58092 seconds
+Total A* solving(timeout excluded): 0.58092 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 456
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.2]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.275819 seconds
+Total A* solving(timeout excluded): 0.275819 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 189
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.2]/Experiment[r_16_s=32]/Workspace.launch
+Total A* solving(timeout included): 21.7027 seconds
+Total A* solving(timeout excluded): 0.588454 seconds
+Total number of A* solver calls(timeout included): 43
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 455
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.1]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.868602 seconds
+Total A* solving(timeout excluded): 0.868602 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 1355
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.1]/Experiment[r_64_s=128]/Workspace.launch
+Total A* solving(timeout included): 19.008 seconds
+Total A* solving(timeout excluded): 9.39234 seconds
+Total number of A* solver calls(timeout included): 133
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5833
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.1]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.38106 seconds
+Total A* solving(timeout excluded): 0.38106 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 652
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.1]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 6.91239 seconds
+Total A* solving(timeout excluded): 6.91239 seconds
+Total number of A* solver calls(timeout included): 128
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5291
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.1]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.66149 seconds
+Total A* solving(timeout excluded): 1.66149 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 2840
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 3.38399 seconds
+Total A* solving(timeout excluded): 3.38399 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 2699
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 103.339 seconds
+Total A* solving(timeout excluded): 52.1407 seconds
+Total number of A* solver calls(timeout included): 278
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 22790
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.68507 seconds
+Total A* solving(timeout excluded): 0.68507 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 1380
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 19.8056 seconds
+Total A* solving(timeout excluded): 12.13 seconds
+Total number of A* solver calls(timeout included): 132
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 10949
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 69.5583 seconds
+Total A* solving(timeout excluded): 36.8611 seconds
+Total number of A* solver calls(timeout included): 273
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 22642
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.1]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 6.18797 seconds
+Total A* solving(timeout excluded): 4.27052 seconds
+Total number of A* solver calls(timeout included): 65
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 5050
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 4.30816 seconds
+Total A* solving(timeout excluded): 2.3889 seconds
+Total number of A* solver calls(timeout included): 33
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 2383
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 475.623 seconds
+Total A* solving(timeout excluded): 62.5184 seconds
+Total number of A* solver calls(timeout included): 471
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 22084
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 1.25262 seconds
+Total A* solving(timeout excluded): 1.25262 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 1451
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 192.778 seconds
+Total A* solving(timeout excluded): 14.2805 seconds
+Total number of A* solver calls(timeout included): 221
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 10370
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 91.0465 seconds
+Total A* solving(timeout excluded): 44.9321 seconds
+Total number of A* solver calls(timeout included): 280
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 21578
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.2]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 33.1082 seconds
+Total A* solving(timeout excluded): 8.15653 seconds
+Total number of A* solver calls(timeout included): 77
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 5448
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.2]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.825367 seconds
+Total A* solving(timeout excluded): 0.825367 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 1510
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.2]/Experiment[r_64_s=128]/Workspace.launch
+Total A* solving(timeout included): 10.8719 seconds
+Total A* solving(timeout excluded): 7.03312 seconds
+Total number of A* solver calls(timeout included): 130
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5916
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.2]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.299679 seconds
+Total A* solving(timeout excluded): 0.299679 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 555
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.2]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 6.80224 seconds
+Total A* solving(timeout excluded): 4.87982 seconds
+Total number of A* solver calls(timeout included): 129
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5326
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.2]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 2.78821 seconds
+Total A* solving(timeout excluded): 2.78821 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 2660
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.15]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.574202 seconds
+Total A* solving(timeout excluded): 0.574202 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 397
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.15]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.278782 seconds
+Total A* solving(timeout excluded): 0.278782 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 196
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.15]/Experiment[r_16_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.607554 seconds
+Total A* solving(timeout excluded): 0.607554 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 519
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.2]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.581099 seconds
+Total A* solving(timeout excluded): 0.581099 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 743
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.2]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.282093 seconds
+Total A* solving(timeout excluded): 0.282093 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 395
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.2]/Experiment[r_32_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.65404 seconds
+Total A* solving(timeout excluded): 1.65404 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1476
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.2]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.32661 seconds
+Total A* solving(timeout excluded): 1.32661 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1378
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.15]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.69169 seconds
+Total A* solving(timeout excluded): 0.69169 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 1339
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.15]/Experiment[r_64_s=128]/Workspace.launch
+Total A* solving(timeout included): 9.14032 seconds
+Total A* solving(timeout excluded): 9.14032 seconds
+Total number of A* solver calls(timeout included): 128
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5543
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.15]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.349477 seconds
+Total A* solving(timeout excluded): 0.349477 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 683
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.15]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 4.92631 seconds
+Total A* solving(timeout excluded): 4.92631 seconds
+Total number of A* solver calls(timeout included): 128
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 5533
+--- END
+--- BEGIN Experiments/Grid[g=64_b=6_s=128_d=0.15]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.64671 seconds
+Total A* solving(timeout excluded): 1.64671 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 2843
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.607046 seconds
+Total A* solving(timeout excluded): 0.607046 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 682
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.284849 seconds
+Total A* solving(timeout excluded): 0.284849 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 376
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_32_s=64]/Workspace.launch
+Total A* solving(timeout included): 1.44179 seconds
+Total A* solving(timeout excluded): 1.44179 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1568
+--- END
+--- BEGIN Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 3.21621 seconds
+Total A* solving(timeout excluded): 1.29528 seconds
+Total number of A* solver calls(timeout included): 65
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 1593
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 18.0675 seconds
+Total A* solving(timeout excluded): 10.3943 seconds
+Total number of A* solver calls(timeout included): 36
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 5761
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 397.438 seconds
+Total A* solving(timeout excluded): 138.636 seconds
+Total number of A* solver calls(timeout included): 389
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 40089
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 5.22457 seconds
+Total A* solving(timeout excluded): 3.30415 seconds
+Total number of A* solver calls(timeout included): 17
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 2854
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 123.419 seconds
+Total A* solving(timeout excluded): 42.7591 seconds
+Total number of A* solver calls(timeout included): 170
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 21981
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 258.782 seconds
+Total A* solving(timeout excluded): 103.045 seconds
+Total number of A* solver calls(timeout included): 337
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 42654
+--- END
+--- BEGIN Experiments/Grid[g=256_b=25_s=256_d=0.2]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 49.2739 seconds
+Total A* solving(timeout excluded): 20.4268 seconds
+Total number of A* solver calls(timeout included): 79
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 10899
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 2.26478 seconds
+Total A* solving(timeout excluded): 2.26478 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 2611
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_128_s=256]/Workspace.launch
+Total A* solving(timeout included): 90.4414 seconds
+Total A* solving(timeout excluded): 61.474 seconds
+Total number of A* solver calls(timeout included): 271
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 22458
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.546686 seconds
+Total A* solving(timeout excluded): 0.546686 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 1468
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_32_s=128]/Workspace.launch
+Total A* solving(timeout included): 19.9375 seconds
+Total A* solving(timeout excluded): 12.2645 seconds
+Total number of A* solver calls(timeout included): 132
+Total number of A* solver calls(timeout excluded): 128
+Total length of solution(timeout excluded): 10880
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_64_s=256]/Workspace.launch
+Total A* solving(timeout included): 67.0849 seconds
+Total A* solving(timeout excluded): 36.357 seconds
+Total number of A* solver calls(timeout included): 272
+Total number of A* solver calls(timeout excluded): 256
+Total length of solution(timeout excluded): 22707
+--- END
+--- BEGIN Experiments/Grid[g=128_b=12_s=256_d=0.15]/Experiment[r_16_s=64]/Workspace.launch
+Total A* solving(timeout included): 4.54258 seconds
+Total A* solving(timeout excluded): 4.54258 seconds
+Total number of A* solver calls(timeout included): 64
+Total number of A* solver calls(timeout excluded): 64
+Total length of solution(timeout excluded): 6070
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.1]/Experiment[r_8_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.564757 seconds
+Total A* solving(timeout excluded): 0.564757 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 355
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.1]/Experiment[r_4_s=16]/Workspace.launch
+Total A* solving(timeout included): 0.280297 seconds
+Total A* solving(timeout excluded): 0.280297 seconds
+Total number of A* solver calls(timeout included): 16
+Total number of A* solver calls(timeout excluded): 16
+Total length of solution(timeout excluded): 196
+--- END
+--- BEGIN Experiments/Grid[g=16_b=1_s=32_d=0.1]/Experiment[r_16_s=32]/Workspace.launch
+Total A* solving(timeout included): 0.598021 seconds
+Total A* solving(timeout excluded): 0.598021 seconds
+Total number of A* solver calls(timeout included): 32
+Total number of A* solver calls(timeout excluded): 32
+Total length of solution(timeout excluded): 471
+--- END

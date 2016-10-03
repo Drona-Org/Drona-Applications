@@ -1,0 +1,33 @@
+# Map
+        w                       
+        wg                      
+   g g bwg            wwwww     
+  gwwwwww       b     wwwww     
+   wwwwww             wwwwwb    
+  gwwwwwgg               g      
+   wwwwwg                   g   
+   wwwww         g  g b         
+       b        gwwwwwg         
+     g          gwwwww          
+         b       wwwww          
+b       wwwg     wwwww b        
+       bwwwg        wwwwg       
+    g    bg         wwww        
+ www           g    b b         
+bwwwb  b     wwwg   g g         
+ wwwg ww     www     www        
+   g  wwg     gg     www        
+      wwg         g  www        
+b    gwwwwg   g g b  wwwg       
+wwwb  ww      gwwwwwwwww        
+www           gwwwwwwww   ggb   
+www    b       wwwwwwww    www  
+wwwg gb    g  gbbgb gbb    www  
+www  wwwwb  gww           bwww  
+     wwwwg wwwwwg     w    bg g 
+     wwww gwwwwwg     w      g  
+     wwwb  ggwwwb     w     wwww
+    gg       gg             wwww
+                            wwww
+                           gwwww
+                            gb  

@@ -1,0 +1,9 @@
+<launch>
+  <param name="map/res" value="0.2" />
+  <param name="map/cmap" value="$(find p_controller)/../../../Workspaces/Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_16_s=64]/Workspace.xml" />
+
+  <node args="-w $(find p_controller)/../../../Workspaces/Experiments/Grid[g=32_b=3_s=64_d=0.1]/Experiment[r_16_s=64]/Workspace.xml -cooperative -threads 80" name="test_motion_planner" output="screen" pkg="p_controller" required="true" type="test_motion_planner">
+    
+  <remap from="~odom0" to="odom0" /><remap from="~odom1" to="odom1" /><remap from="~odom2" to="odom2" /><remap from="~odom3" to="odom3" /><remap from="~odom4" to="odom4" /><remap from="~odom5" to="odom5" /><remap from="~odom6" to="odom6" /><remap from="~odom7" to="odom7" /><remap from="~odom8" to="odom8" /><remap from="~odom9" to="odom9" /><remap from="~odom10" to="odom10" /><remap from="~odom11" to="odom11" /><remap from="~odom12" to="odom12" /><remap from="~odom13" to="odom13" /><remap from="~odom14" to="odom14" /><remap from="~odom15" to="odom15" /></node>
+
+</launch>

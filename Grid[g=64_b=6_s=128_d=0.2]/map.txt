@@ -1,0 +1,65 @@
+# Map
+             g                          b  g   wwww             
+                               g            g  wwww gb          
+         g                    wwwwww          gwwwwg ww         
+                              wwwwwwb          wwww  ww         
+       g             gwwwww  gwwwwww          bwwww  ww  gwwww  
+    g            g gb wwwww   wwwwww           wwww gww   wwww  
+                wwwwwwwwwww   wwwwwwb          wwww  ww   wwww  
+                wwwwwwwwwwwg      gb           wwww  ww   wwww  
+               gwwwwwwwwwwwg       g          g g  b  b   wwww  
+b              b  g gwwwwwwg wwwwwww    g                b ggb b
+                     wwwwww gwwwwwww   b           g   gbwwwwwww
+                    gwwwwww  wwwwwww              wwwwwwwwwwwwww
+      g              b       wwwwwww             bwwwwwwwwwwwwww
+                 g           wwwwwwwb            bwwwwwwwwwwwwww
+                               g   g             gwwwwwwwwwwwwww
+                                                g wwwwwwwwwwwwww
+                                                  wwwwwww    gg 
+                                                 gwwwwwww       
+                g             gg       g                        
+              g               wwwww                             
+ g      g                    gwwwwwwwwww                        
+wwwwwwwwww                   gwwwwwwwwwwg                       
+wwwwwwwwww                    wwwwwwwwww                        
+wwwwwwwwww            g        g  wwwwww             g          
+wwwwwwwg                         bb     g        gg             
+wwwwwwwb   g                   wwwww          gwwww             
+wwwwwww                        wwwww           wwww             
+   b                b         gwwwww           wwww    bb       
+                    gwwwwwb   bwwwww           wwwwg  wwwwww    
+                     wwwww    gwwwwwg          wwww   wwwwwwb   
+                 g  gwwwww        bb           wwww   wwwwwwb   
+                     wwwww                     wwww       b     
+     g              gwwwww                   bbwwww             
+                     wwwww                    bb gb             
+                     wwwww  g                  g                
+                     b    bwwwwwwww b                g          
+                           wwwwwwww                             
+                           wwwwwwww                     g       
+g           gb             wwwwwwwwg  g                         
+                    bwwwg  wwwwwwwwg                 gbbg   b   
+                    gwww  bwwwwwwww                 wwwwwwww    
+                    bwwwg  wwwwwwww             g  gwwwwwwwwg   
+            g  g     wwwg  wwwwwwww                gwwwwwwww    
+           wwwwww    www   wwwwwwww                 wwwwwwww    
+           wwwwww    www  bwwwwwwww                 wwwwwwwwg   
+          gwwwwwwg b  gg   wwwwwww                  wwwwwwww    
+           wwwwwwwwwwb     wwwwwww                  wwwwwwww    
+           wwwwwwwwww  b  ggbg    bg         g        g g g     
+           wwwwwwwwwwg                  wwwwwb                  
+           wwwwwwwwww                   wwwww         bb g  g   
+          gwwwwwwwwww   gb   bg         wwwww          wwwwww   
+           g   gwwwwwg  wwwwwww         wwwww         gwwwwwwg  
+                wwwwwg  wwwwwww         wwwwwb         wwwwww   
+                    g  gwwwwwwwg              g        wwwwww   
+                        wwwwwww           wwwwww       wwwwwwg  
+                         b                wwwwww          gg g  
+                                          wwwwww                
+                                          wwwwww                
+                                          wwwwww                
+                       g                      b                 
+                                                                
+                          g                       b             
+                   g                                            
+                                                                

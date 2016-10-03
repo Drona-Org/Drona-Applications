@@ -1,0 +1,129 @@
+# Map
+     b               wwwwwwwww               g  bg                                                                              
+                     wwwwwwwww             wwwwwwww         g                                       b                           
+                    bwwwwwwwww             wwwwwwwwg                                                           g                
+                     wwwwwwwww             wwwwwwww                                                                             
+                     wwwwwwwww             wwwwwwww                                               g       ggbg   g gb   g       
+                     wwwwwwwww             wwwwwwww            gg    g                                    wwwwwwwwwwwwww        
+                     wwwwwwwww             wwwwwwww         wwwwwwwwww                                    wwwwwwwwwwwwwwb       
+                              b        g   wwwwwwww        bwwwwwwwwww                                    wwwwwwwwwwwwww        
+ g                                       g wwwwwwww      b  wwwwwwwwww                        gg          wwwwwwwwwwwwww        
+                  b                        wwwwwwwwb        wwwwwwwwww                                    wwwwwwwwwwwwww        
+                                          gwwwwwwww        bwwwwwwwwww                                   gwwwwwwwwwwwwww   b    
+                                           wwwwwwww         wwwwwwwwwwg                                   wwwwwwwwwwwwww        
+                                       b   wwwwwwww         wwwwwwwwwwg                    b              wwwwwwwwwwwwww        
+                                            gg   gb         wwwwwwwwww                  g                 wwwwwwwwwwwwww        
+          g                      g                          wwwwwwwwww                                    wwwwwwwwwwwwww        
+                                                    g  g     b  b  g             g                        wwwwwwwwwwwwww        
+                                             g   b                            b                            b  g g   g           
+    b                                                                          gg  bg              g                      g     
+          g                                                                   wwwwwww                                           
+                                                                             gwwwwwwwg                          g               
+g                                                                             wwwwwww                                           
+                             g g                                              wwwwwww                                           
+                  g    gwwwwwwwwwwwwb                                         wwwwwww                 b                         
+                        wwwwwwwwwwww                                   g      wwwwwww                                           
+                        wwwwwwwwwwwwg                                         wwwwwwwg                                          
+                        wwwwwwwwwwww                                          wwwwwww                                           
+                       gwwwwwwwwwwww         g                          g     wwwwwwwg      g                                   
+                        wwwwwwwwwwwwb                                            g  g                                           
+                    b  bwwwwwwwwwwww                                        g              g    b  g                            
+                        wwwwwwwwwwww                                                          wwwwwwwwww                        
+                         bg  g                                                                wwwwwwwwww                        
+ g                                                                                            wwwwwwwwww        b               
+    g   g                                                                                     wwwwwwwwww                        
+                                                                                              wwwwwwwwwwg   b                   
+     g                                    bg g  g  g g                      g                gwwwwwwwwwwg                       
+                                         wwwwwwwwwwww           b                             wwwwwwwwww                        
+                                     g   wwwwwwwwwwww                                        gggg g b                           
+                                        gwwwwwwwwwwww                                                                           
+               g                        gwwwwwwwwwwww                                                         g     g           
+   wwwwwwwwwwwwg                        gwwwwwwwwwwww                                                                           
+   wwwwwwwwwwwwb                         wwwwwwwwwwww                                                                           
+  gwwwwwwwwwwww                          wwwwwwwwwwww                                                                           
+  gwwwwwwwwwwww                          wwwwwwwwwwww                                                                           
+  gwwwwwwwwwwww                              bbg                                                                  b             
+   wwwwwwwwwwww                                                b                   b                                            
+   wwwwwwwwwwww                                        b                                                                        
+   wwwwwwwwwwww                                                                     b                                           
+  bwwwwwwwwwwww                                                     b                    g             g                        
+  gwwwwwwwwwwwwg                                 g bg b  g                                     b                                
+   wwwwwwwwwwww                                  wwwwwwwwwwb                                                                    
+   wwwwwwwwwwww                                  wwwwwwwwww                                            b                        
+    b  g                                         wwwwwwwwww           g                                                         
+                                                gwwwwwwwwww                                                                     
+                                                 wwwwwwwwww                                                                     
+          g                                      wwwwwwwwwwg                                          g                         
+                                                 wwwwwwwwwwg                                                                    
+               g                   g             wwwwwwwwww                                                                     
+                                                 wwwwwwwwww                                                 g                   
+                                                 wwwwwwwwww                                                                     
+                  g                              wwwwwwwwww                                                                     
+                                                 wwwwwwwwww                                                                     
+g           g         gg    g     b             gwwwwwwwwww                   g                            gg       g           
+            wwwwwwwwwwww     wwwwwwwwwg            gb  b                                                 bwwwwwwwwww            
+           gwwwwwwwwwwww     wwwwwwwwwg  g                                                    g          gwwwwwwwwwwb           
+           gwwwwwwwwwwwwb   gwwwwwwwwwb                                                                   wwwwwwwwwwbg          
+            wwwwwwwwwwwwb    wwwwwwwww                                                                   gwwwwwwwwwwb           
+            wwwwwwwwwwww     wwwwwwwww                                                                   gwwwwwwwwww            
+  b         wwwwwwwwwwww     wwwwwwwww                                             b                  bwwwwwwwwwwwww            
+            wwwwwwwwwwwwg    wwwwwwwwwg                                                               gwwwwwwwwwwwww            
+            wwwwwwwwwwww    gwwwwwwwww           g                                                     wwwwwwwww   b            
+            wwwwwwwwwwww     wwwwwwwwwg                                                               gwwwwwwwwwb             g 
+            wwwwwwwwwwww     wwwwwwwww                                                                 wwwwwwwww                
+           b  g      g        g     g                                                                  wwwwwwwww                
+                                                                g                  g                                            
+                                                          g                                                                     
+                                                                                     g                                          
+                                                                                                                                
+                                    b                                                                                           
+          g                                                                                                              g      
+      g    g                       b                                                            b   g    b                      
+    wwwwwww                                                                                     gwwwwwwwwwww                    
+   gwwwwwww                                                                         g g b   g    wwwwwwwwwww   gg       g       
+   gwwwwwww                                                                       wwwwwwwwwwwww  wwwwwwwwwwwwwwwb               
+    wwwwwww                                                     b b          bb  bwwwwwwwwwwwww bwwwwwwwwwwwwwww                
+    wwwwwww          b bb  g                                    wwwwwwwwwwwwwwww bwwwwwwwwwwwwwb wwwwwwwwwwwwwww                
+    wwwwwww       gwwwwwwwwwwg                                  wwwwwwwwwwwwwwww gwwwwwwwwwwwww  wwwwwwwwwwwwwww                
+    wwwwwww       gwwwwwwwwww                     g             wwwwwwwwwwwwwwww gwwwwwwwwwwwww gwwwwwwwwwwwwwww                
+    wwwwwww       gwwwwwwwwww                          b   gg g wwwwwwwwwwwwwwww bwwwwwwwwwwwww  wwwwwwwwwwwwwwwg               
+    wwwwwww        wwwwwwwwww                            gwwwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwwww  wwwwwwwwwwwwwww                
+     g             wwwwwwwwww                             wwwwwwwwwwwwwwwwwwwwww gwwwwwwwwwwwww  wwwwwwwwwwwwwwwb               
+                   wwwwwwwwww                             wwwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwwwwg    wwwwwwwwwwwwb               
+ g                gwwwwwwwwwwb                            wwwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwwww    gwwwwwwwwwwwwb               
+                   wwwwwwwwww                             wwwwwwwwwwwwwwwwwwwwwwg wwwwwwwwwwwww    bwwwwwwwwwwww                
+                     b    b                               wwwwwwwwwwwwwwwwwwwwwwgbwwwwwwwwwwwwwb    wwwwwwwwwwww                
+                                                          wwwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwwww    gwwwwwwwwwwww                
+                                                             g  wwwwwwwwwwwwwwwwg wwwwwwwwwwwww         ggg gb                  
+                                                               bwwwwwwwwwwwwwwwwg wwwwwwwwwwwwwg                                
+                                                                wwwwwwwwwwwwwwwwb   gb b      b                                 
+             g                                                      g    g    g                                                 
+                                                                                                                                
+                                                                                             g                                  
+                                                                          g                                       g   b    g    
+                                                                   gwwwwwwwwww                              g     wwwwwwwww     
+                                                                    wwwwwwwwww     g                              wwwwwwwww     
+                      g                                             wwwwwwwwwwg                                   wwwwwwwww     
+                    g                                               wwwwwwwwwwg                                   wwwwwwwww     
+                                                                   gwwwwwwwwwwg        g                         gwwwwwwwwwg    
+                                                                   gwwwwwwwwww   g     g             b           bwwwwwwwww     
+                       b                       b                    wwwwwwwwww                                    wwwwwwwww     
+                                                                    wwwwwwwwww               g                 b bwwwwwwwww     
+                                                                   gwwwwwwwwwwg        g                   g        g g bg      
+                                                                    wwwwwwwwww wwwwwwwwwwwww                                  b 
+                                                                     b  b g  ggwwwwwwwwwwwww                                    
+                                              g                 g           g  wwwwwwwwwwwww                                    
+               b                                                              gwwwwwwwwwwwww                          g         
+                                                                               wwwwwwwwwwwww   b                      g         
+                                   b                                      b b bwwwwwwwwwwwww                                    
+                          g                     g                         wwwwwwwwwwwwwwwwww           b                        
+g                                                                         wwwwwwwwwwwwwwwwwwg                                   
+                                                                g       ggwwwwwwwwwwwwwwwwww                                    
+                                             g                            wwwwwwwwwwwwwwwwww                                    
+                                                                          wwwwwwwwwwwwwwwwww                                g   
+                                                                          wwwwwwww  b b  g b                                    
+                                                      g                     g  b                                            g   
+     g                                b                                                                                         
+            b               b                                                                                                   
+         g                                                                                                               g   b  
+                                                                                                                          g     
